@@ -26,15 +26,15 @@ For this assessment, you are allowed to use the following resources:
 * [MDN]
 * A whiteboard or paper to work out problems/code, but they must be within
   camera range
-* VScode or a console for testing and experimentation during any part of the
-  test, including multiple-choice questions
+* VS Code or a console for coding, testing, and experimentation during any part
+  of the test, including multiple-choice questions
 * Node
 * Postman (when useful)
 
 You are **NOT** allowed to refer to any other resources, including--but not
-limited to--other websites (e.g., AA Open, StackOverflow), communication apps
-(e.g., Slack, Discord), search engines, notes, or any of your previously
-written code.
+limited to--other websites (e.g., a/A curriculum on Canvas, StackOverflow),
+communication apps (e.g., Slack, Discord), search engines, notes, or any of your
+previously written code.
 
 ## Setup
 
