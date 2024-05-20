@@ -8,7 +8,7 @@ const LetterRoom = require('../problems/03-letter-room');
 chai.use(spies);
 
 describe('LetterProcessor', function() {
-    it('"addLetter" creates a letter and adds to to the last bin added to the room if that bin is not full', function() {
+    it('"addLetter" creates a letter and adds to the last bin added to the room if that bin is not full', function() {
         const letterProcessor = new LetterProcessor();
 
         letterProcessor.addLetter('hello world!');
